@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="RegistroPontoAPI/RegistroPontoAPI.csproj" />
+  <Project Path="RegistroPontoApp/RegistroPontoApp.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
