@@ -1,3 +1,5 @@
+// teste git
+
 using Microsoft.Maui.Controls.Maps;
 using Microsoft.Maui.Maps;
 using RegistroPontoApp.Models;
